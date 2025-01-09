@@ -9,6 +9,7 @@ public class HelloWorld {
 	}
 
 	public static void sayHi(){
+		System.out.println("Mustafa");		
 		System.out.println("Hi");
 	}
 
