@@ -9,8 +9,9 @@ public class HelloWorld {
 		System.out.println("Another Say Hello to test Git");
 	}
 
-	public static void sayHi()
-	{
+	
+	public static void sayHi(){
+		System.out.println("Mustafa");
 		System.out.println("Abdelrahman");
 		System.out.println("Hi");
 	}
