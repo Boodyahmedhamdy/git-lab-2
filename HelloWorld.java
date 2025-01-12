@@ -3,14 +3,22 @@ public class HelloWorld {
 		System.out.println("Hello, World");
 	}
 
-	public static void sayHello() {
+	public static void sayHello() 
+	{
 		System.out.println("Hello");
 		System.out.println("Another Say Hello to test Git");
 	}
 
-	public static void sayHi(){
+	public static void sayHi()
+	{
 		System.out.println("Abdelrahman");
 		System.out.println("Hi");
+	}
+
+	public static void sayBye()
+	{
+		System.out.println("Kerolos");
+		System.out.println("Bye");
 	}
 
 }
