@@ -9,7 +9,7 @@ public class HelloWorld {
 	}
 
 	public static void sayHi(){
-		System.out.println("Mustafa");
+		System.out.println("Mustafa Hussain");
 		System.out.println("Abdelrahman");
 		System.out.println("Hi");
 	}
